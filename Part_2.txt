@@ -1,0 +1,18 @@
+Part 2: Slowest Three Pages
+---------------------------
+
+Building on top of Part 1, we want to add an extra feature.
+
+This time, we want to get the slowest combined 3 page
+traversal speed, broken down by the total amount of
+time taken, the path (via page IDs) and the users that
+performed the page traversals.
+
+Same as the previous step, each consecutive page of 3 are
+considered a separate path.
+
+Output should answer this question:
+"What 3-page paths are the slowest (how slow?),
+and which users are they impacting?"
+
+Retain the functionality of your code to answer Part 1.
