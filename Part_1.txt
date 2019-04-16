@@ -19,5 +19,5 @@ visit pages P1 - P4, then there are 2 paths:
 2) P2, P3, P4
 
 Choose any sensible output that answers this question:
-"What are the most common 3 page paths,
-and how many times were they visited?"
+"What is the most common 3 page path, and how many times
+was it visited?"

@@ -12,7 +12,7 @@ Same as the previous step, each consecutive page of 3 are
 considered a separate path.
 
 Output should answer this question:
-"What 3-page paths are the slowest (how slow?),
-and which users are they impacting?"
+"Which 3-page path is the slowest (how slow?), and which
+users were impacted?"
 
 Retain the functionality of your code to answer Part 1.
