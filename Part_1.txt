@@ -1,16 +1,16 @@
-Part 1: The Most Common Three Page Path
+Part 1: The Most Common Three-Page Path
 ---------------------------------------
 
 The input files (input1.csv and input2.csv) represent
 simplified access logs. The first column is a timestamp.
-The second column is a  customer ID. The third column is
+The second column is a customer ID. The third column is
 a page ID. The fourth column is the page's load time in
 milliseconds.
 
 Log entries within a file are always ordered by timestamp.
 
 Given a file like this, calculate the most common
-"3 page path" through the site. The most common path is
+"3-page path" through the site. The most common path is
 across all users. Users can visit a path multiple times.
 When they visit more than three pages, consider each
 consecutive page of 3 as a separate path: meaning, if they
